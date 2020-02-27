@@ -1,1 +1,2 @@
 Hello! My name is Dima. I am from Gomel. I am learning frontend
+text from master
